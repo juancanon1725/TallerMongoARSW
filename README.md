@@ -46,7 +46,7 @@ Y se conecta con la base de datos en la nube que tiene la configuración de cone
 
 ![mongoconection](https://github.com/juancanon1725/TallerMongoARSW/assets/98672541/2065119b-f6fa-46e7-9b41-7a7dd15b5541)
 
-# Repositorio del frontend de la App
+## Repositorio del frontend de la App
 
 [TallerARSWCliente](https://github.com/juancanon1725/TallerMongoCliente.git)
 
